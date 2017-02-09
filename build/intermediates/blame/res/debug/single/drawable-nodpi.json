@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/swaglord42/Desktop/MyScript_ATK-android-2.2/samples/SingleLineWidgetSample/build/intermediates/res/merged/debug/drawable-nodpi/sltw_bg_pattern.png",
+        "source": "/Users/swaglord42/Desktop/MyScript_ATK-android-2.2/samples/SingleLineWidgetSample/src/main/res/drawable-nodpi/sltw_bg_pattern.png"
+    },
+    {
+        "merged": "/Users/swaglord42/Desktop/MyScript_ATK-android-2.2/samples/SingleLineWidgetSample/build/intermediates/res/merged/debug/drawable-nodpi/sltw_text_cursor_holo_light.9.png",
+        "source": "/Users/swaglord42/Desktop/MyScript_ATK-android-2.2/samples/SingleLineWidgetSample/src/main/res/drawable-nodpi/sltw_text_cursor_holo_light.9.png"
+    }
+]
